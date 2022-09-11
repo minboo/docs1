@@ -3,11 +3,11 @@
 # 确保脚本抛出遇到的错误
 set -e
 
-git add -A
+git add .
 git commit -m '1'
 git push -f git@github.com:minboo/docs.git
 
-git add -A
+git add .
 git commit -m '2'
 git push -f git@gitee.com:minboo/docs.git
 # 生成静态文件
