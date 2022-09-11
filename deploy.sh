@@ -21,5 +21,4 @@ git commit -m 'deploy'
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
 git push -f git@gitee.com:minboo>/docs.git master:gh-pages
-
 cd -
