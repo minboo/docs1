@@ -1,6 +1,5 @@
 const moment = require('moment');
 module.exports = {
-    base: "/docs/",
     title: "在路上",
     description: "description描述",
     head: [
