@@ -23,6 +23,5 @@ git commit -m 'deploy'
 # git push -f git@github.com:minboo/mingboo.github.io.git master
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
-# git push -f git@github.com:minboo/docs.git master:pages
 git push -f git@gitee.com:minboo/docs.git master:pages
 cd -
