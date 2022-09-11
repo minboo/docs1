@@ -4,7 +4,7 @@
 set -e
 
 git add .
-git commit -m '3'
+git commit -m 'update'
 git push -f git@gitee.com:minboo/docs.git
 # 生成静态文件
 npm run docs:build
