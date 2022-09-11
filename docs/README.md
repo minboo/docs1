@@ -1,10 +1,10 @@
 ---
 home: true
-heroImage: /assets/img/hero.png
-heroText: Hero 标题
-tagline: Hero 副标题
-actionText: 快速上手 →
-actionLink: /zh/guide/
+heroImage: /logo.png
+heroText: 在路上aa
+tagline: 有了复数之后，开方运算就不再局限于大于 0 的数
+actionText: 进入笔记 →
+actionLink: /about/
 features:
 - title: 简洁至上
   details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
